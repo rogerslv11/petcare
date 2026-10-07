@@ -1,0 +1,1 @@
+<x-layouts.app title="Check-out"><livewire:checkout-screen/></x-layouts.app>

@@ -1,0 +1,1 @@
+<x-layouts.app title="Novo agendamento"><livewire:appointment-form/></x-layouts.app>

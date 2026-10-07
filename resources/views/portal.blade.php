@@ -1,0 +1,1 @@
+<x-layouts.app title="Portal do Cliente"><livewire:portal-dashboard /></x-layouts.app>

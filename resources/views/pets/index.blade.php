@@ -1,0 +1,1 @@
+<x-layouts.app title="Pets"><livewire:pet-table/></x-layouts.app>

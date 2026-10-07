@@ -1,0 +1,1 @@
+<x-layouts.app title="Check-in"><livewire:checkin-screen/></x-layouts.app>

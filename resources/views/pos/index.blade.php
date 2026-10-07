@@ -1,0 +1,1 @@
+<x-layouts.app title="PDV"><livewire:pos-screen/></x-layouts.app>

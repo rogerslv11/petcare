@@ -1,0 +1,1 @@
+<x-layouts.app title="Dashboard"><livewire:dashboard-stats /></x-layouts.app>

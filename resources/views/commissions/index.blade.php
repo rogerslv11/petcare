@@ -1,0 +1,1 @@
+<x-layouts.app title="Comissões"><livewire:commission-table/></x-layouts.app>

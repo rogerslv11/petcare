@@ -1,0 +1,1 @@
+<x-guest-layout><div class="card p-6 text-center"><h1 class="font-extrabold text-lg">Redirecionando…</h1><p class="text-sm text-slate-500">Este sistema usa loja única. <a class="text-primary-600 font-semibold" href="{{ route('dashboard') }}">Ir para o dashboard</a></p></div></x-guest-layout>

@@ -1,0 +1,1 @@
+<x-layouts.app title="Quadro de atendimento"><livewire:kanban-board/></x-layouts.app>

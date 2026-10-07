@@ -1,0 +1,1 @@
+<x-layouts.app title="Estoque"><livewire:inventory-dashboard/></x-layouts.app>

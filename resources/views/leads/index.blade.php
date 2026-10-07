@@ -1,0 +1,1 @@
+<x-layouts.app title="CRM / Leads"><livewire:lead-pipeline/></x-layouts.app>

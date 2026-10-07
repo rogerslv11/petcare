@@ -1,0 +1,1 @@
+<x-layouts.app :title="$title ?? 'PetCare'"><div class="card p-6"><h1 class="font-extrabold text-xl">{{ $title ?? 'Módulo' }}</h1><p class="text-sm text-slate-500 mt-1">{{ $hint ?? 'Módulo operacional do PetCare.' }}</p><div class="mt-4">{{ $slot }}</div></div></x-layouts.app>

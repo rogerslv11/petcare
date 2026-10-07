@@ -1,0 +1,1 @@
+<x-layouts.app title="Fidelidade"><livewire:loyalty-dashboard/></x-layouts.app>

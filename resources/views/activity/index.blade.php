@@ -1,0 +1,1 @@
+<x-layouts.app title="activity"><div class="card p-8 text-center"><div class="text-5xl"></div><h1 class="font-extrabold text-xl mt-2 capitalize">activity</h1><p class="text-sm text-slate-500">Módulo activity operacional no PetCare.</p></div></x-layouts.app>

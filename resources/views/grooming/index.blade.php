@@ -1,0 +1,1 @@
+<x-layouts.app title="Banho & Tosa"><livewire:grooming-board/></x-layouts.app>

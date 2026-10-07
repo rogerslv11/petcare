@@ -1,0 +1,1 @@
+<x-layouts.app title="Caixa"><livewire:cash-register-widget/></x-layouts.app>

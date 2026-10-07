@@ -1,0 +1,1 @@
+<x-layouts.app title="Agendamentos"><livewire:appointment-calendar/></x-layouts.app>

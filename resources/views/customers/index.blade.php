@@ -1,0 +1,1 @@
+<x-layouts.app title="Clientes"><livewire:customer-table/></x-layouts.app>

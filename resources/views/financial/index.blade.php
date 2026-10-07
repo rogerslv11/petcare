@@ -1,0 +1,1 @@
+<x-layouts.app title="Financeiro"><livewire:financial-dashboard/></x-layouts.app>
